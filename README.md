@@ -31,7 +31,7 @@
       <code> <img height="30" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white"> </code>
-      <code> <img height="30" src="https://img.shields.io/badge/Windows%20Terminalt-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"> </code>
+      <code> <img height="30" src="https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white"> </code>
       <code> <img height="30" src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white"> </code>
