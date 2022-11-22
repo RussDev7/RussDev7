@@ -7,6 +7,7 @@
     </div>
     <div align=center>
         <!-- <a href="https://www.linkedin.com/in/bikas-lin-49725b235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+        <a href="https://discordapp.com/users/632704431124906015"><img src="https://img.shields.io/badge/Discord-23CA26?style=for-the-badge&logo=Discord&logoColor=white" alt="" /></a>
         <a href="imthedude030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
         <a href="https://join.skype.com/invite/qZyo6yYH0ywl"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="" /></a>
         <a href="https://t.me/0xHiro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
