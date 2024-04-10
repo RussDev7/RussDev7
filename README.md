@@ -49,7 +49,7 @@
     <div align=center>
         <h1>Github Stats</h1>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussDev7&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=RussDev7&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&include_all_commits=true&count_private=true&theme=dark" alt="GitHub Stats" height="200" />
+        <img src="https://github-readme-stats.vercel.app/api?username=RussDev7&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" alt="GitHub Stats" height="215" />
         <br>
         <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RussDev7&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
