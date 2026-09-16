@@ -8,7 +8,7 @@
     <div align=center>
         <!-- <a href="https://www.linkedin.com/in/bikas-lin-49725b235/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
         <a href="https://discordapp.com/users/632704431124906015"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white" alt="" /></a>
-        <a href="imthedude030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
+        <a href="mailto:imthedude030@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="" /></a>
         <a href="https://join.skype.com/invite/qZyo6yYH0ywl"><img src="https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white" alt="" /></a>
         <a href="https://t.me/0xHiro"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
         <!-- <a href="https://stackoverflow.com/users/17187486/0xhiro"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stack Overflow" /></a> -->
@@ -48,8 +48,8 @@
     </div>
     <div align=center>
         <h1>Github Stats</h1>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RussDev7&langs_count=10&title_color=6FDA44&text_color=FFFFFF&&theme=dark&layout=compact" alt="AnhellO :: Top Langs" />
-        <img src="https://github-readme-stats.vercel.app/api?username=RussDev7&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" alt="GitHub Stats" height="215" />
+        <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RussDev7&langs_count=10&title_color=6FDA44&text_color=FFFFFF&theme=dark&layout=compact" alt="RussDev7 :: Top Langs" />
+        <img src="https://github-stats-extended.vercel.app/api?username=RussDev7&title_color=6FDA44&text_color=FFFFFF&show_icons=true&icon_color=6FDA44&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&include_all_commits=true&theme=dark" alt="GitHub Stats" height="215" />
         <br>
         <!--
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RussDev7&layout=compact&title_color=6FDA44&text_color=FFFFFF&theme=dark" alt="GitHub Most Used Languages" height="200" />
@@ -58,7 +58,7 @@
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=RussDev7&theme=dark&date_format=j%20M%5B%20Y%5D&currStreakLabel=6FDA44&fire=6FDA44&ring=6FDA44" alt="GitHub Streak Stats" height="200" />
         <br>
         <br>
-        <img src="https://github-profile-trophy.vercel.app/?username=RussDev7&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo">
+        <img src="https://trophy.ryglcloud.net/?username=RussDev7&column=6&title=Stars,Followers,Commit,Issues,PullRequest,Repo" alt="GitHub Trophies">
         <br>
         <br>
     </div>
